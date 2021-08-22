@@ -1,2 +1,2 @@
 # Chat App
-this is apk for our work.
+Group Based chatting app that was converted to apk from a web app.
